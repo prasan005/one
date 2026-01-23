@@ -839,7 +839,7 @@
     <section class="container">
         <div class="section-title">
             <h2>Shop by Category</h2>
-            <p>Browse through our wide range of products in different categories</p>
+            <p>salaar,bahubali,kalki 2898D</p>
         </div>
         
         <div class="categories">
